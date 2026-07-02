@@ -1,0 +1,15 @@
+.card{
+    border: 2px solid black;
+    padding: 25px;
+    margin: 20px;
+    width: 600px;
+    
+}
+h2{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
