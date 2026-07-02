@@ -1,0 +1,11 @@
+.heading{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
+.active{
+    color: rgb(4, 255, 0);
+}
+.toggle{
+    background-color: black;
+    color: white;
+}

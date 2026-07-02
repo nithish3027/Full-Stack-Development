@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 50px;
+}
+#btn{
+    padding: 12px;
+    margin: 6px;
+}
+
+#studentList{
+    margin: 10px;
+    font-size: 20px;
+    color: #9000ff;
+}
